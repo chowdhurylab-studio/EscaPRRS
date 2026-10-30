@@ -1,6 +1,9 @@
 ## This is the repository for EscaPRRS: Escape scoring Evolutionary Variants Over time for Porcine Reproductive and Respiratory Syndrome Virus
 
 Refer latest demo files and API from [chowdhury-lab hf](https://huggingface.co/chowdhury-lab/escaprrs_demo)
+## Citation
+Ratul Chowdhury, Vaishnavey SR, Supantha Dey, Sakib Ferdous, Riza Danurdoro, Michael A Zeller, EscaPRRS-ORF5: a structure-aware evolutionary framework for prioritizing immune escape-prone variants in porcine reproductive and respiratory syndrome virus, Bioinformatics, Volume 42, Issue 8, August 2026, btag529, https://doi.org/10.1093/bioinformatics/btag529
+
 ## Overview
 We modified original training scripts from EVE [training script](https://github.com/OATML-Markslab/EVE/blob/master/train_VAE.py), an unsupervised generative model of mutation effect from broader evolutionary sequences to handle ESM-2 protein language model embeddings to calculate fitness landscape in viral sequences of Porcine Reproductive and Respiratory Syndrome Viral Glycoprotein GP5.
 
