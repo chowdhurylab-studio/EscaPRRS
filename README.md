@@ -38,7 +38,7 @@ conda activate escaprrs_env
 Typical install time is 5 minutes
 
 ## Runtime
-After collecting the training data, generating and visualizing FLEVO escape scores for all single mutations runs in minutes.
+After collecting the training data, generating and visualizing EscaPRRS escape scores for all single mutations runs in minutes.
 
 
 
